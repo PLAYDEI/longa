@@ -1,1 +1,1 @@
-pirntnt("ola")
+print("Hola")
